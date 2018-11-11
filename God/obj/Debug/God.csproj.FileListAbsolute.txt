@@ -1,0 +1,12 @@
+c:\users\prabu\documents\visual studio 2015\Projects\God\God\bin\Debug\God.exe.config
+c:\users\prabu\documents\visual studio 2015\Projects\God\God\bin\Debug\God.exe
+c:\users\prabu\documents\visual studio 2015\Projects\God\God\bin\Debug\God.pdb
+c:\users\prabu\documents\visual studio 2015\Projects\God\God\obj\Debug\God.csprojResolveAssemblyReference.cache
+c:\users\prabu\documents\visual studio 2015\Projects\God\God\obj\Debug\God.exe
+c:\users\prabu\documents\visual studio 2015\Projects\God\God\obj\Debug\God.pdb
+D:\TorrentSearch\God\bin\Debug\God.exe.config
+D:\TorrentSearch\God\obj\Debug\God.exe
+D:\TorrentSearch\God\obj\Debug\God.pdb
+D:\TorrentSearch\God\bin\Debug\God.exe
+D:\TorrentSearch\God\bin\Debug\God.pdb
+D:\TorrentSearch\God\obj\Debug\God.csprojResolveAssemblyReference.cache
